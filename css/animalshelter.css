@@ -1,5 +1,13 @@
+body {
+  background-color: #BCF7CB;
+}
+.firstheading {
+  color: green;
+  text-align: center;
+}
+
 img {
-  width: 500px;
+  width: 300px;
 }
 
 p {
@@ -8,8 +16,9 @@ p {
 
 .animalprofile {
   float: left;
-  width: 500px;
-  margin: 100px;
+  width: 300px;
+  margin: 40px;
   border: 10px solid green;
   padding: 20px;
+  background-color: #D6E3E0;
 }
